@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: YAWYF
+title: Bianca Carvalho de Oliveira
 email: bi.oliveira@ime.usp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Não sei como você chegou aqui, mas já que chegou fica que vai ter bolo e infinito categorias
